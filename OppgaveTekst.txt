@@ -1,0 +1,16 @@
+﻿
+Lag en tekstfil som inneholder en liste av hendelser. Dette gjelder ansettelser i bedrift. 
+Hendelsene kan være: 
+ - ansatt i bedriften i en bestemt avdeling i et bestemt team - med årslønn og stillingsbrøk
+ - sluttet å jobbe i bediften
+ - flyttet til et annet team i samme eller annen avdeling
+ - endret årslønn
+ - endret stillingsbrøk
+Du finner selv ut hvordan tekstfilen skal organiseres
+Programmet skal lese hele filen og skal så kunne produsere forskjellige rapporter
+ - Antall ansatte totalt og total årslønn, justert for hver enkelts stillingsbrøk - også sum stillingsbrøk
+ - Tilsvarende tall per avdeling
+ - Tilsvarende tall per team i en bestemt avdeling eller i alle avdelinger
+ - Liste over personer, årslønn og stillingsbrøk sortert etter avdeling og så team
+
+ Målet er å gjøre det bra objektorientert ved å dele opp i klasser. Du trenger ikke bruke arv eller interface, kun dele opp i klasser og modellere domenet.

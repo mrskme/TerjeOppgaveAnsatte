@@ -1,0 +1,50 @@
+Froskegutt Haha Bero, 834678, -1, 83%, -1%, 1950, 1962, Data Geeks, Minnegutta, Skjermjentene
+Schmø Bod Ost, 967757, 464062, 97%, 46%, 1983, 2019, Color, Red, Blue
+Ost Bruri Okei, 914263, 789042, 91%, 79%, 1969, 2012, Data Geeks, Minnegutta, Skjermjentene
+Kake Ost Navn, 909586, -1, 91%, -1%, 1950, -1, Color, Blue, Orange
+Kæbe 4321 Bod, 263643, -1, 26%, -1%, 2009, 2015, Data Geeks, Minnegutta, Audiofilene
+Scmokei Bruri Bruri, 906230, 868556, 91%, 87%, 1964, -1, Color, Red, -1
+Bruri Kæbe Blal, 586880, -1, 59%, -1%, 1993, -1, Body parts, Leg, Ear
+Bod 1234 Lolerino, 980082, 616047, 98%, 62%, 1984, 2013, Data Geeks, Minnegutta, -1
+4321 Ask Okei, 635773, 765099, 64%, 77%, 2007, -1, Data Geeks, Audiofilene, Skjermjentene
+Bullegutt Kok Navn, 378749, 686806, 38%, 69%, 1974, 1981, Data Geeks, Audiofilene, -1
+Navn Navn Eirik, 359398, 909754, 36%, 91%, 2013, 2017, Color, Green, -1
+Navn Boba Haha, 859445, -1, 86%, -1%, 1996, 2002, Body parts, Spleen, Hair
+1234 Ost Kæbe, 704414, -1, 70%, -1%, 1965, -1, Body parts, Spleen, Hair
+4321 Kake Bero, 467401, -1, 47%, -1%, 1943, 1966, Color, Green, Red
+Fmat Ask Ost, 335596, -1, 34%, -1%, 1927, 1939, Body parts, Hair, Spleen
+Lolerino Okei Kake, 550152, -1, 55%, -1%, 1980, 2014, Data Geeks, Minnegutta, Skjermjentene
+Bero 1234 Fmat, 979919, -1, 98%, -1%, 2019, -1, Body parts, Ear, Leg
+Bero Lolerino Eirik, 431498, -1, 43%, -1%, 1943, -1, Data Geeks, Audiofilene, -1
+Kok Asa Kake, 807809, 634387, 81%, 63%, 1922, 2014, Body parts, Leg, Hair
+Lolerino Kæbe Bod, 477801, 759850, 48%, 76%, 1996, 2018, Body parts, Hair, Spleen
+4321 Asa Lolerino, 741123, 242061, 74%, 24%, 1925, -1, Body parts, Ear, -1
+Bod Scmokei Ost, 660521, 463926, 66%, 46%, 1926, 1966, Body parts, Leg, -1
+Okei Bero Eirik, 682805, -1, 68%, -1%, 1970, 2011, Body parts, Leg, Spleen
+Schmø Navn Ost, 872713, -1, 87%, -1%, 1983, -1, Body parts, Spleen, Leg
+Haha Scmokei Kæbe, 224944, 337808, 22%, 34%, 1996, 2008, Body parts, Ear, -1
+Bruri Asa Froskegutt, 270067, -1, 27%, -1%, 1912, -1, Body parts, Leg, Spleen
+Blal Bod Navn, 797493, 457739, 80%, 46%, 2001, -1, Color, Orange, Green
+Boba Kake Ask, 557947, 391785, 56%, 39%, 1941, 1973, Data Geeks, Minnegutta, -1
+Bruri Navn Boba, 811915, 398079, 81%, 40%, 1943, 2015, Body parts, Spleen, Leg
+4321 Navn Haha, 345439, 629671, 35%, 63%, 1934, -1, Body parts, Hair, -1
+Scmokei Fmat Haha, 543416, -1, 54%, -1%, 1964, 1966, Body parts, Leg, Ear
+Haha Fmat Okei, 644685, 641432, 64%, 64%, 1952, 2005, Body parts, Spleen, Hair
+Okei Bero Eirik, 334173, 333178, 33%, 33%, 1960, 1978, Data Geeks, Minnegutta, -1
+Navn Kake Bab, 469045, -1, 47%, -1%, 1992, 2003, Data Geeks, Skjermjentene, -1
+Kake Kæbe Haha, 273899, -1, 27%, -1%, 1996, 2012, Color, Green, -1
+Kake Okei Haha, 514035, -1, 51%, -1%, 1943, -1, Data Geeks, Minnegutta, -1
+Eirik Schmø Kæbe, 321368, 969529, 32%, 97%, 1950, -1, Body parts, Spleen, -1
+Froskegutt Fmat Haha, 386252, -1, 39%, -1%, 2011, -1, Data Geeks, Minnegutta, Audiofilene
+Schmø Bero Eirik, 933207, 525056, 93%, 53%, 2005, 2007, Color, Orange, -1
+Bruri Ost Navn, 270526, 866379, 27%, 87%, 1936, -1, Color, Blue, -1
+Eirik Kæbe Okei, 906749, 642501, 91%, 64%, 2016, 2019, Color, Green, -1
+Schmø Bruri Blal, 606780, 971510, 61%, 97%, 1949, -1, Data Geeks, Minnegutta, Audiofilene
+Bruri Bullegutt Kok, 740866, 301648, 74%, 30%, 1959, -1, Body parts, Leg, Spleen
+1234 1234 Fmat, 318400, -1, 32%, -1%, 1972, -1, Color, Red, Orange
+4321 Fmat Bero, 729182, 338833, 73%, 34%, 1921, -1, Color, Blue, Orange
+Blal Schmø Ask, 900656, -1, 90%, -1%, 1969, -1, Data Geeks, Audiofilene, -1
+Kake Kake Fmat, 706037, -1, 71%, -1%, 1912, 1912, Data Geeks, Audiofilene, Minnegutta
+Kok Boba Boba, 271233, 485994, 27%, 49%, 1950, 2013, Data Geeks, Audiofilene, -1
+Blal 4321 Asa, 659539, -1, 66%, -1%, 1919, -1, Body parts, Spleen, -1
+Bullegutt Scmokei 4321, 761355, -1, 76%, -1%, 1932, 1992, Body parts, Hair, Ear

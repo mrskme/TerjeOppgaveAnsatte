@@ -1,0 +1,5 @@
+﻿Navn                Årslønn  Stillingsbrøk Startet  Sluttet NyÅrslønn NyStillingsbrøk Team  NyttTeam
+Thor bobby bobbers, 100000,  50%,          2005,    2020,   samme,    samme,          Blue, samme,
+boba boble brobb,   200000,  100%,            3,    25  ,   samme,    samme,	      Red,  Blue,
+Babi bubb buble,    300000,  150%,         1739,    1764,   samme,    80%,            Blue, Red,
+bable bibb,         1000000, 500%,         2021,        ,   50000,    600%,           Blue, samme,
