@@ -50,7 +50,7 @@ namespace TerjeOppgaveAnsatte
                     newTeam));
             }
         }
-        public string WriteEmployees()
+        public string WriteEmployeesName()
         {
             var text = string.Empty;
             foreach (var employee in SortedEmployees)

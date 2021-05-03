@@ -22,18 +22,19 @@ namespace TerjeOppgaveAnsatte
             employees.LinesToEmployees(lines);
             departments.MakeDepartments(employees);
 
-            //Console.WriteLine(departments.WriteDepartmentsWithTeamsWithEmployees());
-            List<string> userInput = new List<string>();
-            var input = string.Empty;
-            do
-            {
-                input = Console.ReadLine();
-                userInput.Add(input);
-            }
-            while (input != "ferdig");
+            var text = departments.WriteDepartmentsWithTeamsWithEmployees();
+            Console.WriteLine(text);
+            //List<string> userInput = new List<string>();
+            //var input = string.Empty;
+            //do
+            //{
+            //    input = Console.ReadLine();
+            //    userInput.Add(input);
+            //}
+            //while (input != "ferdig");
 
 
-            Console.WriteLine(employees.WriteEmployees(userInput.ToArray()));
+            //Console.WriteLine(employees.WriteEmployeesName(userInput.ToArray()));
             //var text = MakeTextFromData(departments, employees);
             //Console.WriteLine(text);
             Console.ReadLine();

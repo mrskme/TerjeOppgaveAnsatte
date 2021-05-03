@@ -33,8 +33,9 @@ namespace TerjeOppgaveAnsatte
             var text = string.Empty;
             foreach (var team in SortedTeam)
             {
-                text += team.Name + "\n";
-                text += team.Members.WriteEmployees();
+                text += $"Team: {team.Name}\n";
+                text += $"Totalt annsatte på team: {team.SortedMembers.Count}\n";
+                text += team.Members.WriteEmployeesName();
             }
             return text;
         }

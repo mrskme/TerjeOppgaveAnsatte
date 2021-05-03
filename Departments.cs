@@ -32,7 +32,7 @@ namespace TerjeOppgaveAnsatte
             var text = string.Empty;
             foreach (var department in SortedDepartment)
             {
-                text += $"Avdeling: {department.Name}\n";
+                text += $"\nAvdeling: {department.Name} \nTotalt teams på adveling: {department.Teams.SortedTeam.Count}\n\n";
                 text += department.Teams.WriteTeams();
             }
             return text;
