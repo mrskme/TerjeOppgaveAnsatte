@@ -130,8 +130,8 @@ namespace TerjeOppgaveAnsatte
         }
         public async Task WriteToTextFile(string[] text)
         {
-            await File.WriteAllTextAsync("C:\\Users\\Eirik\\source\\repos\\Oppgaver\\TerjeOppgaveAnsatte\\TerjeOppgaveAnsatte\\NewEmployeeData.txt", string.Empty);
-            await File.WriteAllLinesAsync("C:\\Users\\Eirik\\source\\repos\\Oppgaver\\TerjeOppgaveAnsatte\\TerjeOppgaveAnsatte\\NewEmployeeData.txt", text);
+            await File.WriteAllTextAsync("C:\\Users\\GET\\source\\repos\\TerjeOppgaveAnsatte\\NewEmployeeData.txt", string.Empty);
+            await File.WriteAllLinesAsync("C:\\Users\\GET\\source\\repos\\TerjeOppgaveAnsatte\\NewEmployeeData.txt", text);
         }
     }
 }

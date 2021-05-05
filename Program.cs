@@ -11,8 +11,7 @@ namespace TerjeOppgaveAnsatte
         static void Main(string[] args)
         {
             GenerateTestData().Wait();
-
-            var fileLocation = @"C:\Users\Eirik\source\repos\Oppgaver\TerjeOppgaveAnsatte\TerjeOppgaveAnsatte\NewEmployeeData.txt";
+            var fileLocation = @"C:\Users\GET\source\repos\TerjeOppgaveAnsatte\NewEmployeeData.txt";
             var fileHandler = new FileHandler();
             var employees = new Employees();
             var departments = new Departments();
